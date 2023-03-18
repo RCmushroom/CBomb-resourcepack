@@ -5,6 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":25201}, "model": "item/custom/bronze_ingot"}
+		{"predicate": {"custom_model_data":25201}, "model": "item/custom/shroomite_ingot"}
 	]
 }
